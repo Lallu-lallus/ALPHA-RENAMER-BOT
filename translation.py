@@ -44,7 +44,7 @@ I am Renamer bot ✍ by <a href='https://t.me/{}'>My Father 👨‍🏫</a>
 
 --------
 
-Support Group : @Ns_Bot_supporters"""
+Support Group : @tg_bots_disccurssions"""
     REPLY_TO_DOC_FOR_RENAME_FILE = "🤦‍♂️ Reply to a Telegram media to `/rename New Name.extension` with custom thumbnail support.\n\n(For uploading as file).\n\nSee /help for mor information. "
     REPLY_TO_DOC_FOR_RENAME_VIDEO = "🤦‍♂️ Reply to a Telegram media to `/rename_video New Name.extension` with custom thumbnail support.\n\n(For uploading as video).\n\nSee /help for mor information."
     ABUSIVE_USERS = "You are not allowed to use this bot. If you think this is a mistake, please check /me to remove this restriction."
@@ -64,10 +64,10 @@ Please short your file name and try again!"""
 
 **🧰 Framework:** Pyrogram
 
-**👨‍💻 Developer:** [Anonymous](https://pro_editor_tg)
+**👨‍💻 Developer:** [DONT TOUCH](https://pro_editor_tg)
 
-**📮 Channel:** [NS BOT UPDATES](https://t.me/tg_bots_updates)
+**📮 Channel:** [ALPHA BOT UPDATES](https://t.me/tg_bots_updates)
 
-**👥 Group:** [NS BOT SUPPOTERS](https://t.me/tg_bots_disccurssions)
+**👥 Group:** [ALPHA BOT SUPPORTERS](https://t.me/tg_bots_disccurssions)
 
-**💻 Source Code:**[Press Me](https://github.com/Lallu-lallus/ALPHA-RENAMER-BOT)"""
+**💻 Source Code:**[click here](https://github.com/Lallu-lallus/ALPHA-RENAMER-BOT)"""
